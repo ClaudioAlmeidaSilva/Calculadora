@@ -11,8 +11,8 @@ namespace Calculadora.Test
             {
                 Operacoes o = new Operacoes();
                 var resultado = o.Adicao(2, 2);
-                //Verifica se o resultado é igual a 4        
-                Assert.Equal(2, resultado);
+                //Verifica se o resultado é igual a 4.
+                Assert.Equal(4, resultado);
             }
 
             [Fact]
@@ -46,7 +46,7 @@ namespace Calculadora.Test
             public void Mutiplicacao_DeveRetornarOValorCorreto()
             {
                 Operacoes o = new Operacoes();
-                var resultado = o.Subtracao(20, 10);
+                var resultado = o.Mutiplicacao(20, 10);
                 //Verifica se o resultado é igual a 200        
                 Assert.Equal(200, resultado);
             }
@@ -55,7 +55,7 @@ namespace Calculadora.Test
             public void Mutiplicacao_DeveValidarSeMutiplicacaoEstaIncorreta()
             {
                 Operacoes o = new Operacoes();
-                var resultado = o.Adicao(6, 6);
+                var resultado = o.Mutiplicacao(6, 6);
                 //Verifica se está calculando        
                 Assert.NotEqual(20, resultado);
             }
@@ -64,7 +64,7 @@ namespace Calculadora.Test
             public void Divisao_DeveRetornarOValorCorreto()
             {
                 Operacoes o = new Operacoes();
-                var resultado = o.Subtracao(10, 2);
+                var resultado = o.Divisao(10, 2);
                 //Verifica se o resultado é igual a 200        
                 Assert.Equal(5, resultado);
             }
