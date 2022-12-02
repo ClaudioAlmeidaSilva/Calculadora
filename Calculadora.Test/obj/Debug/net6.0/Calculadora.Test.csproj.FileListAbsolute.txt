@@ -1,4 +1,8 @@
+C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
 C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\testhost.dll
+C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\CalculadoraApp.deps.json
+C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\CalculadoraApp.runtimeconfig.json
+C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\CalculadoraApp.exe
 C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\testhost.exe
 C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
@@ -86,6 +90,8 @@ C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\zh-Hans
 C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\CalculadoraApp.dll
+C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\bin\Debug\net6.0\CalculadoraApp.pdb
 C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\obj\Debug\net6.0\Calculadora.Test.csproj.AssemblyReference.cache
 C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\obj\Debug\net6.0\Calculadora.Test.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos\Pessoal\Estudo\Calculadora\Calculadora.Test\obj\Debug\net6.0\Calculadora.Test.AssemblyInfoInputs.cache

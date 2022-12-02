@@ -1808,6 +1808,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "CalculadoraApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CalculadoraApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculadoraApp.dll": {}
+        }
       }
     }
   },
@@ -6103,10 +6113,16 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "CalculadoraApp/1.0.0": {
+      "type": "project",
+      "path": "../CalculadoraApp/CalculadoraApp.csproj",
+      "msbuildProject": "../CalculadoraApp/CalculadoraApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CalculadoraApp >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
       "coverlet.collector >= 3.1.2",
       "xunit >= 2.4.2",
@@ -6145,7 +6161,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\Pessoal\\Estudo\\Calculadora\\CalculadoraApp\\CalculadoraApp.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoal\\Estudo\\Calculadora\\CalculadoraApp\\CalculadoraApp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
